@@ -11,12 +11,12 @@ This template should help get you started developing with Tauri, React and Types
 1) at first install packages
 
 ```
-sudo apt install pkg-config \
+sudo apt-get install pkg-config \
   libdbus-1-dev \
   libgtk-3-dev \
   libsoup2.4-dev \
-  libjavascriptcoregtk-4.0-dev \
-  libwebkit2gtk-4.0-dev
+  libjavascriptcoregtk-4.0 \
+  libwebkit2gtk-4.0
 ```
 
 2) export display
